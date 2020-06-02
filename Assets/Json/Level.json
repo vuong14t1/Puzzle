@@ -1,0 +1,28 @@
+{
+	"levelConfigs":[
+		{
+			"level": 1,
+			"target": 100,
+			"modeGame": "Moves",
+			"thresholdC": 60
+		},
+		{
+			"level": 2,
+			"target": 80,
+			"modeGame": "Timer",
+			"thresholdC": 120
+		},
+		{
+			"level": 3,
+			"target": 120,
+			"modeGame": "Moves",
+			"thresholdC": 70
+		},
+		{
+			"level": 4,
+			"target": 1120,
+			"modeGame": "Timer",
+			"thresholdC": 120
+		}
+	]
+}
